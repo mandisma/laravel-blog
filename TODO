@@ -1,0 +1,32 @@
+
+Todo:
+  ✔ Pagination @started(20-11-29 10:35) @done(20-11-29 12:41) @lasted(2h6m40s)
+  ✔ Notification @done(20-11-29 19:16)
+  ✔ Filtrage/Recherche @done(20-11-29 13:18)
+  ✔ Test unitaire @done(20-11-30 14:58)
+  ✔ Breadcrumb @done(20-11-29 19:16)
+  ✔ match des urls slug @done(20-11-30 14:57)
+  ✔ Ne pas afficher la pagination si pas nécessaire @done(20-11-30 15:50)
+  ☐ Mettre en place une UI correct en front
+  ☐ Créer un historique des modifications
+  ☐ Recherche avancée (elastic?)
+  ☐ Afficher les métas de la pagination (total, courant, ...)
+  ☐ Ajouter des badges pour les statuts
+  ☐ Ajouter une gestion des versions des articles
+  ☐ Ajouter un système de catégorie
+  ☐ Ajouter un link sur chaque ligne du listing et retirer le bouton edit
+  ☐ Ajouter un système de cache
+  ☐ Ajouter une gestion des médias dans le content de l'article
+  ☐ Gérer la traduction des templates
+  ☐ Gérer la traduction des contenus
+  ☐ Ajouter un framework de test pour le front
+
+Optimize:
+  ☐ Ajouter une image dans les tests et ne plus utiliser l'url de faker
+  ☐ Améliorer le split des composants en front
+  ✔ Créer un composant image avec un jolie loader et supprimer la directive @done(20-12-13 14:15)
+
+Note:
+  ☐ Voir pour créer un package laravel-inertia-admin
+  ☐ Utiliser une librairie de composants vue ?
+  ☐ PHPMD et PHPinsights
